@@ -5,10 +5,10 @@
 *** Toggle input methods
 
 Have this in your init file
-#+begin_src emacs-lisp :tangle ./toggle-config.el :mkdirp yes 
+#+begin_src emacs-lisp :tangle ~/.emacs.d/init.el :mkdirp yes 
   ;; Input method and key binding configuration.
   (setq alternative-input-methods
-        '(("chinese-py-punct" . [?\C-\;])
+        '(("chinese-tonepy" . [?\C-\;])
           ("chinese-sisheng" . [?\C-.])))
 
   (setq default-input-method
