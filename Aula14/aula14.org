@@ -1,0 +1,8 @@
+#+TITLE: Aula 13
+#+AUTHOR:老是:小. 学生: 小白色 佩德罗.
+
+#+LATEX_COMPILER: xelatex
+#+LATEX_HEADER: \usepackage{xltxtra}
+#+LATEX_HEADER: \setmainfont{Source Han Sans CN}
+
+** 一十三第课文

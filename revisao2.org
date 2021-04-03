@@ -1,0 +1,151 @@
+#+LATEX_COMPILER: xelatex
+#+LATEX_HEADER: \usepackage{xltxtra}
+#+LATEX_HEADER: \setmainfont{Source Han Sans CN}
+
+* Revisão módulo 2, lições 7 à 12.
+
+** L7:
+*** Estrutura - Ordem S. + V. + O.:
+Como se o Objeto fosse um sujeito desconhecido, e partícula indicativa
+de pergunta.
+
+1. 他是谁?
+   - (ta1 shi4 shui2?)
+
+2. 你的汉语老师是谁?
+   - (ni1 de han4yu3 lao3shi1 shi4 shui2?)
+
+*** Vocabulário.:
+**** Palavras estruturais
+1. 也 (ye3)
+   - S. + 也 + (...) .
+     1. 她也学汉语 (ta3 ye3 xue2 han4yu3)
+
+2. 他, 她 (ta1: ele, ela)
+
+**** Geral
+1. 踢 (ti1)
+   1.足球 (zu2qiu2)
+
+2. 打 (da3)
+   1.篮球
+
+*** Verbos.:
+1. 踢 (ti1)
+   - Jogar (com pé)
+
+2. 打 (da3)
+   - Jogar (com a mão)
+
+
+** L8:
+*** 都 (dou1)
+**** 们都
+     1. Usar men antes de dou1.
+
+**** 也都
+     1. Usar ye3 antes de dou1, se ambos forem utilizados numa frase.
+
+
+** L9:
+*** Estrutura - Quantificadores N + cl. + sub.:
+    Quantidades sempre são acompanhadas de classificadores
+**** 个 (ge - genérico)
+     1. 一个可 (yi1 ge ke4 - lição 1)
+
+**** 只 (zhi - alguns animais, olhos)
+     1. 两只眼 (liang3 zhi1 yan3 - dois olhos.)
+     2. 两只青 (liang3 zhi1 quing1 - duas rãs.)
+
+**** 张 (zhang1 - papel, cd, borracha, lápis, bilhete, documento etc)
+     1. 有四张纸 (you3 si4 zhang1 zhi3 - têm quatro folhas.)
+
+*** 几 (ji3, quanto?, interrogativo e menos que 10.)
+    1. 有几张纸? (you3 ji3 zhang1 zhi3 - quantas folhas têm?)
+
+*** 没有 (mei2you3 - negação de ter)
+
+*** 不, 没
+1. 不 (bu4 - negação, presente e futuro)
+   1. Negação de "ser" - shi4.
+      1. 不是.
+
+2. 没 (mei2 - negação, passado)
+   1. Negação de "ter" - you3.
+      1. 没有.
+
+
+** L10:
+*** 这, 那
+**** 这 (zhe4 - este(a)/esse(a))
+     1. 这个老市 (zhe4 ge lao3shi1 - esta professora)
+     2. 这办书 (zhe4 ban4 shu1 - este livro)
+
+**** 那 (na4 - aquele(a))
+
+*** 元 (yuan2)-> 块 (kuai4)
+Unidade de dinheiro chinês formal/popular.
+
+*** 多少钱 (duo1 shao3 qian2?)
+*** Vocabulário Números
+    1.一 (yi1)
+    2.二 / 两 (er4)
+    3.三 (san1)
+    4.四 (si4)
+    5.五 (wu3)
+    6.六 (liu4)
+    7.七 (qi1)
+    8.八 (ba1)
+    9.九 (jiu3)
+    10.十 (shi2)
+
+
+** L11:
+*** 在 vs 再
+**** 在 (zai4 - ficar, se encontrar em - localização)
+     - 同学们在哪里? (tong1xue2men zai4 na3li4?)
+       + Trad: onde se encontram os colegas de classe?
+     - 铅笔在这里 (qian1bi3 zai4 zhe4li)
+       + Trad: o lápis encontra-se aqui.
+     - 铅笔在那里 (qian1bi3 zai4 na4li)
+       + Trad: o lápis encontra-se ali/lá.
+**** 再见 (zai4jian4)
+     + Trad.: até mais.
+
+*** Vocabulário (和)
+    + Trad.: e
+
+**** Estrutura Gramatical
+     + Estrut. Possíveis
+       - Suj. 和 Suj.
+       - Obj. 和 Obj.
+
+     + Estrut. Não Permitidas
+       - Adj. 和 Adj.
+       - Sentença 和 Sentença
+
+
+** L12:
+*** Gramática S. + Adv. + Adj.
+**** Vocabulário (今天, 很, 高兴)
+     - 今天我很高兴 (jin1ting1 wo3 hen3 gao1xing4)
+       + Trad.: Agora, eu (me sinto) muito feliz.
+
+     - 快乐 (kuai4le4)
+       + Trad.: feliz (data de um dia)
+
+     - 高兴 (gao1xing4)
+       + Trad.: feliz (estado de ser)
+
+     - 音乐 (yin1yue4)
+       + Trad: música
+
+***** 乐 (yue4, le4 - multi-pronúncia)
+      - le4 -> 乐 -> felicidade
+      - yue4 -> 乐 -> música
+
+**** Vocabulário (跟 (gen1 - "com"), 一起 (yi4qi3 - junto))
+***** Estrutura Gramatical
+      - S1. 跟 S2. 在一起 (S1 gen1 S2 zai4 yi4qi3)
+
+        + Trad.: S1 com S2 encontram-se juntos
