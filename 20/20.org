@@ -15,13 +15,6 @@ líng, yī, (èr liǎng), sān, sì, wǔ, liù, qī, bā, jiǔ.
   + 你 每天 几点 学汉语? (...) xué hàn kè (estudar aula de mandarim)
   + 你 每天 几点 做作业. (...) 做作业 (zuò zuò yè) - lição de casa
 - 老市什么 zuò zuò yè?( lǎoshī, shènme zuò zuò yè?)
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> origin/Main
-  
->>>>>>> origin/Main
 ** Vocabulário
 **** Gramática
 S. + 每天 + h. + V.
@@ -51,16 +44,7 @@ S. + 每天 + h. + V.
   * Usa-se o verbo 吃(chī) para acompanhar esses eventos.
   * Usa-se a palavra 饭(fàn) para  designar refeição genêrica.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
 ** 课文
 *** Pequena adição de frase de aula
 不要看书 (búyào kàn shū)
->>>>>>> origin/Main
-=======
-** 课文
-*** Pequena adição de frase de aula
-不要看书 (búyào kàn shū)
->>>>>>> origin/Main
