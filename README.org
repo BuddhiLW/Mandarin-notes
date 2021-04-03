@@ -1,0 +1,56 @@
+* What this Repository is all about
+<h1> *These are some annotations in my Mandarin Course with Xiao teacher.* </h1>
+
+** Some Emacs configs to facilitate Mandarin annotations in pinying and ideograms.
+*** Toggle input methods
+
+Have this in your init file
+#+begin_src emacs-lisp :tangle ./toggle-config.el :mkdirp yes 
+  ;; Input method and key binding configuration.
+  (setq alternative-input-methods
+        '(("chinese-py-punct" . [?\C-\;])
+          ("chinese-sisheng" . [?\C-.])))
+
+  (setq default-input-method
+        (caar alternative-input-methods))
+
+  (defun toggle-alternative-input-method (method &optional arg interactive)
+    (if arg
+        (toggle-input-method arg interactive)
+      (let ((previous-input-method current-input-method))
+        (when current-input-method
+          (deactivate-input-method))
+        (unless (and previous-input-method
+                     (string= previous-input-method method))
+          (activate-input-method method)))))
+
+  (defun reload-alternative-input-methods ()
+    (dolist (config alternative-input-methods)
+      (let ((method (car config)))
+        (global-set-key (cdr config)
+                        `(lambda (&optional arg interactive)
+                           ,(concat "Behaves similar to `toggle-input-method', but uses \""
+                                    method "\" instead of `default-input-method'")
+                           (interactive "P\np")
+                           (toggle-alternative-input-method ,method arg interactive))))))
+
+  (reload-alternative-input-methods)
+#+end_src
+
+#+RESULTS:
+
+*** Demo
+Now,
+- C-; is bind to mandarin ideogram inputs based on pinyin tones; 
+- C-. is binf to UTF-8 pinyin characters.
+
+  #+begin_example
+Press C-; and type wo3jia1you3si4kou3ren2.
+=> 我家有四口人.
+Press C-; again, and switch to the default input mode of our computer/emacs (mine utf-8). Now, I want to write the pinying of this phrase.
+Press C-. And, again type wo3jia1you3si4kou3ren2.
+=> wǒjiā yǒu sì kǒurén.
+
+The meaning of the phrase being: my family is composed of four people.
+  #+end_example
+  
